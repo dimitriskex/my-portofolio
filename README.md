@@ -8,7 +8,7 @@ Skills section about the skills i gained through my experience.
 
 My working experience so far. 
 
-Projects section --> Comming SOON.
+Projects section --> Coming SOON.
 
 Finally there is a Contact section to stay in touch
 
