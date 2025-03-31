@@ -6,7 +6,9 @@ Contains an About section summarizing some important things about me.
 
 Skills section about the skills i gained through my experience. 
 
-My working experience so far. Projects section --> Comming SOON.
+My working experience so far. 
+
+Projects section --> Comming SOON.
 
 Finally there is a Contact section to stay in touch
 
