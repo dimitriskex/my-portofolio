@@ -2,15 +2,16 @@
 Time to present my portofolio to the audience... 
 
 Anyone who spends a fair amount of time checking this project will be appreciated.
-Contains an **About** section summarizing some important things about me. 
+Contains:
+- **About** section summarizing some important things about me. 
 
-**Skills** section about the skills i gained through my experience. 
+- **Skills** section about the skills i gained through my experience. 
 
-My Working **Experience** so far. 
+-**Experience** section for my working carrer so far. 
 
-**Projects** section --> Coming SOON.
+- **Projects** section --> Coming SOON.
 
-Finally there is a **Contact** section to stay in touch
+-**Contact** section to stay in touch 🌐
 
 # Table of Contents 🚀
 1. [Project Description](#project-description)
