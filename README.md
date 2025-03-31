@@ -2,6 +2,8 @@
 Time to present my portofolio to the audience... 
 
 Anyone who spends a fair amount of time checking this project will be appreciated.
+
+
 Contains:
 - **About** section summarizing some important things about me. 
 
