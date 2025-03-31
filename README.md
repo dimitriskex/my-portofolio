@@ -12,7 +12,7 @@ Projects section --> Coming SOON.
 
 Finally there is a Contact section to stay in touch
 
-## Table of Contents 🚀
+# Table of Contents 🚀
 1. [Project Description](#project-description)
 2. [Technologies used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
