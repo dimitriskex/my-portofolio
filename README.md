@@ -20,3 +20,13 @@ Finally there is a Contact section to stay in touch
 5. [Contact](#contact)
 
 
+## Technologies Used 🔧
+
+- **React.js** - JavaScript library for building user interfaces.
+- **Tailwind CSS** - A utility-first CSS framework.
+- **Vite** - Build tool for fast development.
+- **React Router** - For routing and navigation.
+- **Vercel** - For deployment (if you deploy it later).
+
+
+
