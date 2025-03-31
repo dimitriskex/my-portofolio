@@ -7,11 +7,11 @@ Contains:
 
 - **Skills** section about the skills i gained through my experience. 
 
--**Experience** section for my working carrer so far. 
+- **Experience** section for my working carrer so far. 
 
 - **Projects** section --> Coming SOON.
 
--**Contact** section to stay in touch 🌐
+- **Contact** section to stay in touch 🌐
 
 # Table of Contents 🚀
 1. [Project Description](#project-description)
